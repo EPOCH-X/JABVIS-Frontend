@@ -71,3 +71,21 @@ npm run dev    # http://localhost:3000
 - `src/components/`는 공통 모듈 — 변경 시 전체 영향 확인
 - 각 feature는 독립적 — `components/`, `hooks/`, `services/` 3개 폴더 구조 유지
 - 백엔드 미완성 시 Mock 데이터로 개발 가능 (`src/lib/` 에서 처리)
+
+---
+
+## 브랜치 목록 (Jira 복붙용)
+
+> Jira → **Create branch** → Branch name 필드에 아래 이름을 그대로 복붙하세요.
+
+### develop 브랜치 (Branch from: `main`)
+
+```
+EPOCH-11-JABVIS-Frontend-develop
+```
+
+### 기능 브랜치 (Branch from: `develop`)
+
+| 기능 | Branch name |
+|------|-------------|
+| F-F1 프론트엔드 | `EPOCH-27-frontend` |
