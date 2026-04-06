@@ -88,4 +88,4 @@ EPOCH-11-JABVIS-Frontend-develop
 
 | 기능 | Branch name |
 |------|-------------|
-| F-F1 프론트엔드 | `EPOCH-27-frontend` |
+| F-F1 프론트엔드 | `EPOCH-24-frontend` |
